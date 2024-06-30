@@ -1,4 +1,4 @@
-TIC TAC TOE AI
+#TIC TAC TOE AI
 import random
 def print_board(board):
     for row in board:
